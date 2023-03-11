@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\bin\Debug\net7.0\ProjetoCanibaisMisinarios.exe
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\bin\Debug\net7.0\ProjetoCanibaisMisinarios.deps.json
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\bin\Debug\net7.0\ProjetoCanibaisMisinarios.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\bin\Debug\net7.0\ProjetoCanibaisMisinarios.dll
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\bin\Debug\net7.0\ProjetoCanibaisMisinarios.pdb
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\ProjetoCanibaisMisinarios.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\ProjetoCanibaisMisinarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\ProjetoCanibaisMisinarios.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\ProjetoCanibaisMisinarios.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\ProjetoCanibaisMisinarios.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\ProjetoCanibaisMisinarios.dll
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\refint\ProjetoCanibaisMisinarios.dll
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\ProjetoCanibaisMisinarios.pdb
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\ProjetoCanibaisMisinarios.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\Facudade_materias\College\AAAsemestre2023.1\iInteligencia-artificial\ProjetoCanibaisMisinarios\obj\Debug\net7.0\ref\ProjetoCanibaisMisinarios.dll
