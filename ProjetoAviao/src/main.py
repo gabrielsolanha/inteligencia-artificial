@@ -20,9 +20,9 @@ def generate_(random, args):
     size = args.get('num_inputs', 12)
     p = [0] * size
     # carga 1
-    p[0] = random.randint(0, 18000)
-    p[1] = random.randint(0, 18000)
-    p[2] = random.randint(0, 18000)
+    p[0] = random.randint(0, 16000)
+    p[1] = random.randint(0, 16000)
+    p[2] = random.randint(0, 16000)
 
     # carga 2
     p[3] = random.randint(0, 15000)
@@ -30,9 +30,9 @@ def generate_(random, args):
     p[5] = random.randint(0, 15000)
 
     # carga 3
-    p[6] = random.randint(0, 23000)
-    p[7] = random.randint(0, 23000)
-    p[8] = random.randint(0, 23000)
+    p[6] = random.randint(0, 16000)
+    p[7] = random.randint(0, 16000)
+    p[8] = random.randint(0, 16000)
 
     # carga 4
     p[9] = random.randint(0, 12000)
@@ -56,18 +56,18 @@ def evaluate_(candidates, args):
 # funcao que calcula o fitness de cada individuo para o problema das
 # garrafas
 def perform_fitness(p):
-    c1_d = float(p[0])
-    c1_c = float(p[1])
-    c1_t = float(p[2])  # carga 1 compartimento 3
-    c2_d = float(p[3])
-    c2_c = float(p[4])
-    c2_t = float(p[5])  # carga 2 compartimento 3
-    c3_d = float(p[6])
-    c3_c = float(p[7])
-    c3_t = float(p[8])  # carga 3 compartimento 3
-    c4_d = float(p[9])
-    c4_c = float(p[10])
-    c4_t = float(p[11])  # carga 4 compartimento 3
+    c1_d = float(p[0])  # carga 1 compartimento diânteiro
+    c1_c = float(p[1])  # carga 1 compartimento central
+    c1_t = float(p[2])  # carga 1 compartimento traseio
+    c2_d = float(p[3])  # carga 2 compartimento diânteiro
+    c2_c = float(p[4])  # carga 2 compartimento central
+    c2_t = float(p[5])  # carga 2 compartimento traseio
+    c3_d = float(p[6])  # carga 3 compartimento diânteiro
+    c3_c = float(p[7])  # carga 3 compartimento central
+    c3_t = float(p[8])  # carga 3 compartimento traseio
+    c4_d = float(p[9])  # carga 4 compartimento diânteiro
+    c4_c = float(p[10])  # carga 4 compartimento central
+    c4_t = float(p[11])  # carga 4 compartimento traseio
 
     fit = float(0.310*(c1_d+c1_c+c1_t) + 0.380*(c2_d+c2_c+c2_t) +
                 0.350*(c3_d+c3_c+c3_t) + 0.285*(c4_d+c4_c+c4_t)) / 12350
